@@ -15,7 +15,7 @@
       "zip": "77407"
     },
     "website": "https://sultanak.github.io/Portfoli-Khandaker_Sultana/",
-    "resumedownload": "https://drive.google.com/file/d/1dRQI9VOolzcR5TEcpmZBYELDdPOEd1op/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/14perVM2oHnU9jjuF9F1LsZ0zDf7PTx8k/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -43,6 +43,18 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
+        "school": "Thinkful Coding Bootcamp",
+        "degree": "Software Enginneering",
+        "graduated": "December 2020",
+        "description": "Graduated"
+      },
+      {
+        "school": "University of Texas at Austin",
+        "degree": "Full-Stack Web Development",
+        "graduated": "February 2019",
+        "description": "Graduated with Distinction"
+      },
+      {
         "school": "Jahangirnagar University",
         "degree": "Bachelor in Computer Science",
         "graduated": "January 2005",
@@ -58,7 +70,7 @@
       },
       {
         "company": "Eastern Bank ltd",
-        "title": "IT Specialist",
+        "title": "Application Developer",
         "years": "Nov 2010 - July 2013",
         "description": "Prepare and analysis report as per financial transaction & Resolve software issues reported by user."
       }
