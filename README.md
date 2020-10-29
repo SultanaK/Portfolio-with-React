@@ -20,9 +20,24 @@ https://friendly-bohr-36ab83.netlify.app/
 * Make required changes in src/resumeData.js to suit your needs.
 
 
-### Full Preview 
+### Preview 
 
 <h2 align="center">
   <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/homePage.png" alt="home" width="600px" />
+  <br>
+</h2>
+<h2 align="center">
+  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/skill.png
+  <br>" alt="skill" width="600px" />
+  <br>
+</h2>
+<h2 align="center">
+  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/education.png
+  <br>" alt="education" width="600px" />
+  <br>
+</h2>
+<h2 align="center">
+  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/projects.png
+  <br>" alt="projects" width="600px" />
   <br>
 </h2>
