@@ -27,17 +27,14 @@ https://friendly-bohr-36ab83.netlify.app/
   <br>
 </h2>
 <h2 align="center">
-  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/skill.png"
-  <br>" alt="skill" width="600px" />
+  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/skill.png" alt="skill" width="600px" />
   <br>
 </h2>
 <h2 align="center">
-  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/education.png"
-  <br>" alt="education" width="600px" />
+  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/education.png" alt="education" width="600px" />
   <br>
 </h2>
 <h2 align="center">
-  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/projects.png"
-  <br>" alt="projects" width="600px" />
+  <img src="https://github.com/SultanaK/Portfolio-with-React/blob/master/public/images/projects.png" alt="projects" width="600px" />
   <br>
 </h2>
