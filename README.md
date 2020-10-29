@@ -22,4 +22,7 @@ https://friendly-bohr-36ab83.netlify.app/
 
 ### Full Preview 
 
-
+<h2 align="center">
+  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="home" width="600px" />
+  <br>
+</h2>
